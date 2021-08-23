@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @TerrellLiu
-- 👀 I’m interested in C++
+- 👀 I’m interested in C
 - 🌱 I’m currently learning gui
 - 💞️ I’m looking to collaborate on App
 - 📫 How to reach me 18833261137
